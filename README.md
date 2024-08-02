@@ -1,6 +1,6 @@
-# Hello, I'm Dung Tran!
+# Welcome to my GitHub!
 
-Welcome to my GitHub! Dive in to explore my data-driven projects and analytical skills.
+Let's dive in to explore my data-driven projects and analytical skills!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

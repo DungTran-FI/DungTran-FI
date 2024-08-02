@@ -37,8 +37,22 @@ My background in supply chain and my current Master’s degree in ISM has led me
 - Machine Learning and Statistical Analysis: Time-series Analysis 
 - Experience with SixSigma, Git/GitHub/GitLab
 
+## Projects
 
-| Skill                                         | Associated Project         |
+
+| Projects                                         | Associated Skills         | Description / Tools Used       |
+|--------------------------------------------------|---------------------------|--------------------------------|
+| SIEM Implementation and Log Analysis            | [Detection Lab](https://google.com) | SIEM, Log Analysis             |
+| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) | Network Monitoring, Attack Detection |
+| Security Automation with Shuffle SOAR           | SOC Automation Lab        | Shuffle SOAR, Automation Tools |
+| Incident Response Planning and Execution        | SOC Automation Lab        | Incident Response, Planning    |
+| Case Management with TheHive                    | SOC Automation Lab        | TheHive, Case Management       |
+| Scripting and Automation for Threat Mitigation   | SOC Automation Lab        | Scripting, Threat Mitigation    |
+
+
+
+
+| Projects                                         |  Associated skills      | 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|

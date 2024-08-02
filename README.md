@@ -100,3 +100,6 @@ My background in supply chain and my current Master’s degree in ISM has led me
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/dung-tran-b4767a16b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Email](https://img.shields.io/badge/Email-thuydungtran2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuydungtran2000@gmail.com)
+
+

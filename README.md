@@ -39,6 +39,22 @@ My background in supply chain and my current Master’s degree in ISM has led me
 
 ## Projects
 
+| **Project**                      | **Objective**                                  | **Tools Utilized**                                         | **Skills Applied**                         |
+|----------------------------------|------------------------------------------------|------------------------------------------------------------|--------------------------------------------|
+| Car Purchasing Decision Optimization | Optimize family car selection using data-driven methods. | - Excel<br>- Linear & Non-Linear Value Functions<br>- SWING Method | - Data Analytics<br>- Decision Analysis<br>- Quantitative Methods<br>- Data Visualization |
+
+**Description:**  
+This project uses Multi-Attribute Value Theory (MAVT) to rank car options on criteria such as price, fuel efficiency, reliability, and environmental impact, providing an objective and well-informed purchasing decision.
+
+**Results:**  
+The "Skoda Octavia – 2017" was identified as the optimal choice with a MAV score of 0.562. The recommendation is purely analytical and tailored to specific needs, without endorsing any particular brands.
+
+
+| Projects                                    | Objective                                         | Tools Utilized                                  | Results                                                                                              |
+|---------------------------------------------|---------------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Analysis of Car Purchasing Decision         | Optimize family car purchase using a data-driven approach. | - Excel<br>- Linear & Non-Linear Value Functions<br>- SWING Method | Identified "Skoda Octavia – 2017" as the optimal choice with a MAV score of 0.562, tailored to family needs. Recommendation is purely analytical. |
+
+
 
 | Projects                                         | Associated Skills         | Description / Tools Used       |
 |--------------------------------------------------|---------------------------|--------------------------------|

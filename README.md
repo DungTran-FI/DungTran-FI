@@ -46,6 +46,8 @@ My background in supply chain and my current Master’s degree in ISM has led me
 **Description:**  
 This project uses Multi-Attribute Value Theory (MAVT) to rank car options on criteria such as price, fuel efficiency, reliability, and environmental impact, providing an objective and well-informed purchasing decision.
 
+A detailed analysis utilized Multi-Attribute Value Theory (MAVT) and SWING Method to optimize the car purchasing decision for a family. Car options were evaluated based on criteria such as price, fuel efficiency, reliability, and environmental impact, providing a structured and objective recommendation that aligns with the family’s priorities.
+
 **Results:**  
 The "Skoda Octavia – 2017" was identified as the optimal choice with a MAV score of 0.562. The recommendation is purely analytical and tailored to specific needs, without endorsing any particular brands.
 

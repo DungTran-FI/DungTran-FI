@@ -39,82 +39,22 @@ My background in supply chain and my current Master’s degree in ISM has led me
 
 ## Projects
 
-| **Project**                      | **Objective**                                  | **Tools Utilized**                                         | **Skills Applied**                         |
-|----------------------------------|------------------------------------------------|------------------------------------------------------------|--------------------------------------------|
-| Car Purchasing Decision Optimization | Optimize family car selection using data-driven methods. | - Excel<br>- Linear & Non-Linear Value Functions<br>- SWING Method | - Data Analytics<br>- Decision Analysis<br>- Quantitative Methods<br>- Data Visualization |
-
-**Description:**  
-This project uses Multi-Attribute Value Theory (MAVT) to rank car options on criteria such as price, fuel efficiency, reliability, and environmental impact, providing an objective and well-informed purchasing decision.
-
-A detailed analysis utilized Multi-Attribute Value Theory (MAVT) and SWING Method to optimize the car purchasing decision for a family. Car options were evaluated based on criteria such as price, fuel efficiency, reliability, and environmental impact, providing a structured and objective recommendation that aligns with the family’s priorities.
-
-**Results:**  
-The "Skoda Octavia – 2017" was identified as the optimal choice with a MAV score of 0.562. The recommendation is purely analytical and tailored to specific needs, without endorsing any particular brands.
-
-
-| Projects                                    | Objective                                         | Tools Utilized                                  | Results                                                                                              |
-|---------------------------------------------|---------------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Analysis of Car Purchasing Decision         | Optimize family car purchase using a data-driven approach. | - Excel<br>- Linear & Non-Linear Value Functions<br>- SWING Method | Identified "Skoda Octavia – 2017" as the optimal choice with a MAV score of 0.562, tailored to family needs. Recommendation is purely analytical. |
-
-
-
-| Projects                                         | Associated Skills         | Description / Tools Used       |
-|--------------------------------------------------|---------------------------|--------------------------------|
-| SIEM Implementation and Log Analysis            | [Detection Lab](https://google.com) | SIEM, Log Analysis             |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) | Network Monitoring, Attack Detection |
-| Security Automation with Shuffle SOAR           | SOC Automation Lab        | Shuffle SOAR, Automation Tools |
-| Incident Response Planning and Execution        | SOC Automation Lab        | Incident Response, Planning    |
-| Case Management with TheHive                    | SOC Automation Lab        | TheHive, Case Management       |
-| Scripting and Automation for Threat Mitigation   | SOC Automation Lab        | Scripting, Threat Mitigation    |
-
-
-
-
-| Projects                                         |  Associated skills      | 
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+| Field                        | Project Title                                                                                                           | Description                                                                                                                                                                                                                                    | Technologies Used                              |
+|------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| **Operations Research**      | [Building Optimization Models using Linear & Non-Linear Programming](https://github.com/DungTran-FI/Building-Optimization-Models-using-Linear-Non-Linear-Programming-in-Operations-Management)            | Collection of projects applying optimization techniques to solve real-world business problems like transportation, job assignment, and logistics.                                                                                               | Linear Programming, Non-Linear Programming     |
+| **Database Management**      | [Designing A Volunteer Matching System with Finnish Red Cross](https://github.com/DungTran-FI/Designing-A-Volunteer-Matching-System-with-Finnish-Red-Cross)                                          | Developed a relational database to efficiently match Red Cross volunteers with local crisis needs, including advanced SQL features and Python data analysis.                                                                                     | SQL, Python, Database Design                   |
+| **Decision Analysis**        | [Application of Multi-Attribute Value Theory for Car Purchase Decision Optimization](https://github.com/DungTran-FI/Application-of-Multi-Attribute-Value-Theory-for-Car-Purchase-Decision-Optimization) | Applied Multi-Attribute Value Theory to optimize the decision-making process for purchasing a car by evaluating options based on cost, fuel efficiency, safety, etc.                                                                             | Decision Modeling, MAVT, Python                |
+| **Data Analysis**            | [Analysis of Correlation between Life Expectancy vs Medical Professional Density](https://github.com/DungTran-FI/Analysis-of-Correlation-between-Life-Expectancy-vs-Medical-Professional-Density)        | Investigated the relationship between life expectancy and medical professional density across regions using statistical methods to uncover insights into public health and resource distribution.                                                | Statistical Analysis, Data Visualization, Python |
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+- **Lean Six Sigma Yellow Belt**  
+  *Issued on March 1, 2024, by Excellence Finland*  
+
+
+- **CargoWise Certified Specialist in Forwarding, Transport, and Warehouse**  
+  *Issued on August 20, 2024, by CargoWise / WiseTech Academy*  
+
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/dung-tran-b4767a16b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
